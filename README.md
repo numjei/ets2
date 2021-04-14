@@ -1,8 +1,9 @@
 # ets2
 My Euro Truck Simulator Universe.
 
-# Mainly trailer skins
-I'm a fucking beginner so, some may be shit or not.
+# About me
+I'm a new to the game, trying to express myself into paintjobs. 
+Released one paintjob.
 
 # Contact
 Discord numjei#1111

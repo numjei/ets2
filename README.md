@@ -9,8 +9,9 @@ Discord numjei#1111
 
 @updated 14.04.2021
 
-# Trailer paint jobs
+# Trailer paintjobs
 
-### cumtastic.cosmos brand paintjob [fast preview](https://i.imgur.com/1CXFL1l.png) | [instant download (zip)](https://github.com/numjei/ets2/raw/main/cumtasticcosmos.zip)
-*Warning : 2-3 axle & simple trailers supported.*
+1.40 
+### cumtastic.cosmos brand paintjob [fast preview](https://i.imgur.com/1CXFL1l.png) | [instant download (zip)](https://github.com/numjei/ets2/raw/main/cumtasticcosmos.zip) 14.04.2021
 
+*Warning : 2-3 axle & simple trailers supported.* 

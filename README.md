@@ -14,4 +14,4 @@ Discord numjei#1111
 1.40 
 ### cumtastic.cosmos brand paintjob [fast preview](https://i.imgur.com/1CXFL1l.png) | [instant download (zip)](https://github.com/numjei/ets2/raw/main/cumtasticcosmos.zip) 14.04.2021
 
-*Warning : 2-3 axle & simple trailers supported.* 
+*Warning : 2-3 axle & simple trailers only supported.* 

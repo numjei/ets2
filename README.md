@@ -3,7 +3,7 @@ My Euro Truck Simulator 2 Universe.
 
 # About me
 I'm a new to the game, trying to express myself into paintjobs. 
-Released one paintjob.
+Released two paintjobs.
 
 # Contact
 Discord numjei#1111
@@ -15,4 +15,8 @@ Discord numjei#1111
 
 ### cumtastic.cosmos brand paintjob [fast preview](https://i.imgur.com/1CXFL1l.png) | [instant download (zip)](https://github.com/numjei/ets2/raw/main/cumtasticcosmos.zip) 14.04.2021
 
-*Warning : 2-3 axle & simple trailers only supported.* 
+*Warning : 2-3 axle simple trailers only supported.* 
+
+### Monopoly paintjob [fast preview](https://imgur.com/a/qCdDTQV) | [instant download (zip)](https://github.com/numjei/ets2/blob/main/monopoly.zip) 16.04.2021
+
+*Warning : 2-3 axle simple trailers only supported.* 
